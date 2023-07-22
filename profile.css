@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Archivo', sans-serif;
+}
+.profile-container{
+    background-color: #314b54;
+    background-size: cover;
+
+}
+.ar01{
+    color:#fff;
+    font-size: 18px;
+    padding: 20px;
+}
+.user-image{
+    border-radius: 50%;
+}
+.name01{
+    color:#fff;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.level01{
+    color:#fff;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.gamesp{
+    color:#fff;
+    font-size: 20px;
+}
+.history{
+    color:#fff;
+    font-size: 16px;
+}
+.hor{
+    background-color:#fff;
+}
+.pri{
+    color:#fff;
+}

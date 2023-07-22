@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Archivo', sans-serif;
+}
+#home, #profile, #information{
+    color:#383838;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.login{
+    width: 118px;
+    height:50px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    border:0px;
+    background-color: #0C132C;
+    font-size: 14px;
+    font-weight: 400;
+    color:#fff;
+    letter-spacing: 1px;
+}
+
+.heading01{
+    color:#F46B5B;
+    font-size: 36px;
+    font-weight: 600;
+}
+.span01{
+    color:#333A53;
+    font-size: 36px;
+    font-weight: 600;
+}
+.bg-container01{
+    background-color: #FAFAFA;
+    background-size: cover;
+   
+}
+.m1{
+    border-radius: 15px;
+}
+.bg-container02{
+    background-color: #010A29;
+    background-size: cover;
+
+}
+.heading02{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.heading03{
+    color: #fff;
+    font-size: 42px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.play-button{
+    width: 100px;
+    height:40px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    border:0px;
+    background-color: #0C132C;
+    font-size: 14px;
+    font-weight: 400;
+    color:#fff;
+    letter-spacing: 1px;
+}
+.bg-container03{
+    background-color: #000;
+    background-size: cover;
+    border-bottom: 1px solid #fff;
+
+}
+.tab-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Optional: Adjust the margin as needed */
+}
+.but01 {
+    color: #fff !important; 
+    background-color: transparent !important;
+    border: 0px !important;
+}
+.image001{
+    width:280px;
+    height:230px;
+}
+.manohar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.bg-container04{
+    background-color: #000;
+    background-size: cover;
+}
+.card02{
+    background-color: #010A29 !important;
+    border-radius: 10px !important;
+}
+.card-text01{
+    color:#fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    padding: 10px;
+}
+.card01{
+    width:100% !important;
+}
+
+.csimage{
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+}
+.name{
+    color:#fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+.des{
+    color:#fff;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.bg-container05{
+    background-color: #010A29;
+    background-size: cover;
+}
+.heading004{
+    color:#fff;
+    text-transform: capitalize;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+.manohar01{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.l01{
+    width: 200px;
+}
+.l02{
+    width: 200px;
+}
+.information {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+}
+.para03 {
+    color: #fff;
+    opacity: 0.8;
+    font-size: 16px;
+}
+.icon002{
+    color: #fff;
+    font-size: 20px;
+}
+.icon003 {
+    color: #fff;
+    font-size: 16px;
+}
+.home{
+    color: #fff;
+    font-size: 16px;
+    margin-top: 7px;
+}
+.home01{
+    color: #fff;
+    font-size: 16px;
+    margin-top: 14px;
+    line-height: 23px;
+}
+.home02{
+    color: #fff;
+    font-size: 16px;
+    margin-top: 15px;
+    line-height: 23px;
+}
+.hor{
+    height: 0.5px;
+    background-color: #fff;
+}
+.copyright {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.bg-container06{
+    background-color: #000;
+    background-size: cover;
+}
+
+
+  
